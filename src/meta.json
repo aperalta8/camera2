@@ -117,10 +117,10 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "camera_dev",
             "settings": {
                 "teamId": null,
-                "appName": "Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -144,16 +144,11 @@
                 "yandexAPIKey": null,
                 "imageRecognizerServerURL": null,
                 "imageRecognizerSubscriptionKey": null,
-                "cloudName": "drqo7r6t7",
-                "cloudinaryAPIKey": "432776111269911",
-                "cloudinaryAPISecret": "MVOVnaZA1_dPafHx4k0Ae_nePxI",
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -169,7 +164,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Camera App",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -193,16 +188,11 @@
                 "yandexAPIKey": null,
                 "imageRecognizerServerURL": null,
                 "imageRecognizerSubscriptionKey": null,
-                "cloudName": "drqo7r6t7",
-                "cloudinaryAPIKey": "432776111269911",
-                "cloudinaryAPISecret": "MVOVnaZA1_dPafHx4k0Ae_nePxI",
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
                 "permissions": {
-                    "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
-                    }
+                    "ios": {}
                 },
                 "googleMapAPIKeyAndroid": null,
                 "googleMapAPIKeyIOS": null,
@@ -225,7 +215,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
